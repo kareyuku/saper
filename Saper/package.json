@@ -1,0 +1,23 @@
+{
+  "name": "saper",
+  "version": "1.0.0",
+  "description": "Simple npm module for generating minesweeper board with customization.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b4rtuus/saper.git"
+  },
+  "keywords": [
+    "saper",
+    "minesweeper"
+  ],
+  "author": "b4rtuus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b4rtuus/saper/issues"
+  },
+  "homepage": "https://github.com/b4rtuus/saper#readme"
+}
